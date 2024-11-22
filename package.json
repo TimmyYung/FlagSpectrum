@@ -21,5 +21,11 @@
   "devDependencies": {
     "eslint": "^8",
     "eslint-config-next": "15.0.3"
+  },
+  "overrides": {
+    "next": {
+      "react": "^19.0.0-rc-a960b92c-20240819",
+      "react-dom": "^19.0.0-rc-a960b92c-20240819"
+    }
   }
 }
