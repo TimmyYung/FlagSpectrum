@@ -1,7 +1,7 @@
 "use client";
 import * as React from "react";
 import { Button, Stack, Box } from "@mui/material";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 
 const getContrastingTextColor = (backgroundColor) => {
   const hex = backgroundColor.replace("#", "");
