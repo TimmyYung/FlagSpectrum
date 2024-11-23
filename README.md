@@ -10,6 +10,8 @@ This is a web-based game for players to generate prompts that describe a relatio
     - Beige Flag: A neutral or quirky trait.
 4. Once all players have made their selections, everyone reveals their choice at the same time.
 5. Discuss your reasoning for your choice with the group. Compare answers and debate whether certain traits are dealbreakers, positives, or neutral quirks.
+## Demo Video
+https://youtu.be/lVmxFY9bOiY
 ## Installation
 1. Clone the repository
 ```bash
