@@ -5,7 +5,8 @@ Child (18)
 Child (5)
 Grandparent
 Cousin
-Close Friend
+Male Friend
+Female Friend
 Best Friend
 Boyfriend/Girlfriend
 Husband/Wife
