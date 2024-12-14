@@ -1,6 +1,7 @@
 # [FlagSpectrum](https://flagspectrum.vercel.app/)
 ## Description
 This is a web-based game for players to generate prompts that describe a relationship dynamic and a personality trait (e.g., "Child: Shares memes with you") . Players then classify the prompt as either a Red Flag, Green Flag, or Beige Flag (quirky/neutral trait). The app is designed for fun discussions and debates about relationships and personality quirks, making it great for parties, icebreakers, or casual play. 
+![Home Screen](https://github.com/TimmyYung/FlagSpectrum/blob/main/public/image.png)
 ## How to Play
 1. Open the website in your mobile browser
 2. Click on the "Generate Prompt" button to receive a random relationship description and personality trait.
